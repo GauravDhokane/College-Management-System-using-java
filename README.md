@@ -44,34 +44,24 @@ Document the code using comments to explain complex sections.
 Create user manuals or guides to help users navigate and use the system.
 
 #OUTPUT
-
-# ![home page ](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/2fc3dc66-e153-4683-89db-dd9e4a21beab)
-
-#![login page admin ](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/1f90cbe2-d587-4cdc-b03f-bfb517db5a2b)
-
-#![student details](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/c9d5c7d8-2c9d-4948-bf8b-65a810a888f6)
-
-#![search student detail](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/d3e07296-ac8e-405e-94d4-05487b5ca93d)
-
-#![update student details](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/1fdb35c8-fd5a-494d-b8b1-ac34415f365d)
-
-#![enter marks of student ](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/177c88d3-c1fa-4e9f-b313-777a90fb8554)
-
-#![view marks table of students](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/d0e12a73-df5d-4069-9cba-11d52aaa0557)
-
-#![fee details of courses](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/0affecc5-8a1d-4b54-9977-4962b8ed811a)
-
-#![update student fee details and pay fee](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/4ba8010c-d8ca-480f-807e-acfd338581b2)
-
-#![teacher details insertion](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/4986b469-3611-46c2-8ba6-07032204b082)
-
-#![teacher details](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/ea05c6c7-a2e8-419a-81d5-4d8c1b3c1f08)
-
-#![leave apply for teacher](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/42289fb7-419a-4a19-ae41-e40c63e977ad)
+![home page ](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/3a0ffe81-332c-4f04-b4cf-895bafe16f04)
+![login page admin ](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/ec6c5e1d-49d0-4b0b-a6af-b1d6997c4997)
+![home page student info fill](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/aab0dc31-8fc6-4274-a907-cbd811ba86de)
+![student details](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/efcf9560-2781-487c-94d8-8a424cf75f1d)
+![search student detail](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/6bbf6ffe-c6f4-43e4-96ae-e32435460c50)
+![student fetail option](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/38e9e9ff-68c5-4499-906c-ab228d22974c)
+![teacher details](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/a1aff7c1-9713-4ee7-8800-cb962200ce5d)
+![teacher details insertion](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/df7bdf29-d1ea-4367-ad58-ed8c01c23e90)
+![update student details](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/1860d2be-dd21-4edc-9a1e-26d34229d4b2)
+![update teacher detail](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/9f325ead-5c7c-4e67-9f7f-15a8dad8feb3)
+![leave apply for student](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/986bb526-99f9-499d-b178-d1406b0a9d4b)
+![leave apply for teacher](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/2c688834-9f40-4f9f-9666-7d4b36a70d0a)
+![student leave detail](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/04303ed1-1e28-457b-8eca-ecde10664ce4)
+![teacher leave details](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/04ebeb52-bb3e-46f5-bfdb-10032af91860)
+![fee details of courses](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/cbd568e0-76a7-42b6-b64d-029c52f6fc02)
+![view marks table of students](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/0e1de69e-c66f-413b-b237-e85644ef2c62)
+![enter marks of student ](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/5c4f62a8-4c90-4847-a366-9857338b3b1d)
+![utility calculator](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/300de8a4-bd0b-4af5-bc73-9a9658a1994c)
+![WhatsApp Image 2023-08-12 at 1 32 23 AM](https://github.com/GauravDhokane/College-Management-System-using-java/assets/116433563/b6bcfead-62e8-4201-a8cc-85356307d45c)
 
 
-#![utility calculator](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/68a28ad4-1aa3-48e5-b98a-4e124f06afc8)
-
-
-
-#![Screenshot 2023-08-11 195852](https://github.com/Rushabh8087/College-Management-System-using-java/assets/115590012/e497593a-e2d0-42ed-ae17-54ffe9d730e6)
